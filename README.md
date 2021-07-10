@@ -6,6 +6,7 @@
 
 ![demo_ui](https://github.com/GaoKangYu/UE4StealthGameDemo/blob/main/screenshot/demo.png)
 <p align="center">demo截图</p>
+
 ## 文件结构
 
 文件结构如下：
@@ -91,7 +92,7 @@ Road-Damage-Detection-System
 
 能够弹起玩家或遮蔽物，到达较高的区域。
 
-![LaunchPad](https://github.com/GaoKangYu/UE4StealthGameDemo/blob/main/screenshot/LaunchPad.png)
+<div align=center><img width="325" height="260" src="https://github.com/GaoKangYu/UE4StealthGameDemo/blob/main/screenshot/LaunchPad.png"/></div>
 
 <p align="center">LaunchPad</p>
 
