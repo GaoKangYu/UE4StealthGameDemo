@@ -56,9 +56,17 @@ Road-Damage-Detection-System
 <p align="center">BlackHole效果演示</p>
 
 - FPSCharacter
+
+可操作角色，基于FPS模板，可开枪发射子弹，拥有是否持有目标物体（FPSObjectiveActor）这一状态。
+
 - FPSExtractionZone
-- FpsGameMode
-- FPSGameStateBase
+
+撤离区域，当玩家未携带目标物体通过时发出无效音效，持有目标物体时发出任务成功音效并触发任务成功逻辑。
+
 - FPSObjectiveActor
+
+目标物体，持续散发粒子特效，能够被玩家拾取。
+
 - LaunchPad
-- FPsPlayerController
+
+能够弹起玩家或遮蔽物，到达较高的区域。
